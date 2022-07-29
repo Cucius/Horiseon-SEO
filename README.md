@@ -16,3 +16,5 @@ Reformatted the css and html files for the Horiseon company according to the cli
 ```
 ## Screenshot
 ![Screenshot](./assets/images/Horiseon%20Screenshot.jpg)
+
+You can find the deployed webpage here:[ Horiseon SEO](https://cucius.github.io/Horiseon-SEO/)
