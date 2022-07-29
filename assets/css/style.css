@@ -11,6 +11,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Declares the attributes assigned to the header and nav bar */
 header {
     text-align: start;
     padding: 20px;
@@ -34,6 +35,7 @@ h3 {
     text-align: center;
 }
 
+/* Declares the attributes assigned to the navbar */
 nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -41,7 +43,7 @@ nav {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
+/* Declares the attributes of all list items */
 li {
     display: inline-block;
     margin-left: 25px;
@@ -50,7 +52,7 @@ li {
 p {
     font-size: 16px;
 }
-
+/* attributes of the image between the header and the main page */
 aside {
     height: 800px;
     width: 100%;
@@ -59,7 +61,7 @@ aside {
     background-size: cover;
     background-position: center;
 }
-
+/* declares the attributes for the main page  */
 main {
     width: 75%;
     display: inline-block;
@@ -82,7 +84,7 @@ main {
     margin-left: 25px;
 }
 
-
+/* content class attributes defined */
 .content {
     margin-bottom: 20px;
     padding: 50px;
@@ -97,7 +99,7 @@ main {
 }
 
 
-
+/* Elements of the right side of the webpage containing details class */
 article {
     margin-right: 20px;
     padding: 20px;
@@ -120,6 +122,7 @@ article {
     max-width: 150px;
 }
 
+/*Denotes all the elements of the footer */
 footer {
     padding: 30px;
     clear: both;
